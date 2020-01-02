@@ -44,7 +44,7 @@ body
 #ground
 {
 	position: absolute;
-	background-image: url(../mario-images/ground.gif);
+	background-image: url(./mario-images/ground.gif);
 	width:2000px;
 	height:50px;
 	top:445px;
